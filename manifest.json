@@ -1,7 +1,7 @@
 {
-    "short_name": "CET",
-    "name": "a",
-    "description": "a",
+    "short_name": "recibo",
+    "name": "recibo de pago",
+    "description": "Teotihuacan en las nubes",
     "icons": [{
         "src": "./assets/img/icons/camera128.jpg",
         "sizes": "128x128",
