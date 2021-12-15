@@ -1,4 +1,4 @@
-const CACHE_NAME = '2021teonubaQEssEA';
+const CACHE_NAME = '2021teonuba';
 const FILES_TO_CACHE = [
     './sw.js',
     './assets/js/script.min.js',
